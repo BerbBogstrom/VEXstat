@@ -1,0 +1,19 @@
+{
+  "name": "vexstat",
+  "version": "0.0.1",
+  "description": "Advanced statistic viewer for Vex Robotics Competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerbBogstrom/VEXstat.git"
+  },
+  "author": "Blake Gall <jgall@live.sscc.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerbBogstrom/VEXstat/issues"
+  },
+  "homepage": "https://github.com/BerbBogstrom/VEXstat#readme"
+}
